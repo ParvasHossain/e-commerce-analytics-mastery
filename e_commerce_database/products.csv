@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice
+2001,Wireless Mouse,Electronics,18.0
+2002,Mechanical Keyboard,Electronics,62.0
+2003,USB-C Cable,Accessories,9.0
+2004,Power Bank,Electronics,35.0
+2005,Laptop Stand,Accessories,28.0
+2006,Webcam,Electronics,48.0
+2007,Headphones,Electronics,75.0
+2008,Phone Case,Accessories,14.0
+2009,Smart Watch,Wearables,120.0
+2010,Fitness Band,Wearables,55.0
+2011,Desk Lamp,Home Office,32.0
+2012,Office Chair,Home Office,180.0
+2013,Notebook,Stationery,7.0
+2014,Backpack,Accessories,42.0
+2015,Bluetooth Speaker,Electronics,58.0
+2016,Monitor,Electronics,21.0
+2017,HDMI Cable,Accessories,11.0
+2018,Microphone,Electronics,85.0
+2019,Tablet,Electronics,260.0
+2020,Gaming Controller,Gaming,68.0

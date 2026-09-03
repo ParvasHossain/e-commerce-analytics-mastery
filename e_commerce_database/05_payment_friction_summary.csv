@@ -1,0 +1,5 @@
+PaymentMethod,Cancelled,Completed,Returned
+CardToCard,612,11035,334
+Cash,242,4611,153
+Gateway,1162,21945,770
+Wallet,447,8088,269
