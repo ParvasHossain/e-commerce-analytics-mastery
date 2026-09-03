@@ -25,12 +25,3 @@ This repository is structured into 5 modular, standalone analysis notebooks:
 * **Machine Learning & Modeling:** Scikit-Learn, Imbalanced-Learn (SMOTE)
 * **Statistical Modeling:** Statsmodels, SciPy, MLxtend
 * **Data Visualization:** Matplotlib, Seaborn
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/e-commerce-analytics-mastery.git](https://github.com/YOUR_USERNAME/e-commerce-analytics-mastery.git)
-cd e-commerce-analytics-mastery
